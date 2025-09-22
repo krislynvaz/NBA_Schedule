@@ -16,12 +16,14 @@ This GitHub repository contains CSV files containing  NBA data spanning from the
 
 27.2 4-in-6 stretches on average from 2010-11 to 2023-24. We can see that the NBA has started to decrease the number of 4-in-6 stretches in recent seasons. There was a peak during the 2020 season due to COVID-19 where the regular season was reduced from its standard 82 games to 72 games.
 
-3) How has Lewis Hamilton’s performance evolved over time?
-4) Which nationalities dominate Formula 1 wins?
-5) Which constructors have the most podium finishes?
-6) How have 2019 rookies progressed in F1?
-7) Does starting in pole position significantly increase chances of winning?
-8) Can we predict whether a driver will finish on the podium?
+2) How does a team's likelihood of winning change when playing on the second night of back-to-back (b2b) games?
+<img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/7c8cd5d8-7904-4802-b4c3-34625d8310c4" />
+
+On the second night of b2b games, teams are losing 55.7% of the time and winning only 44.3%. This suggests that playing on consecutive nights put teams at a disadvantage due to fatigue and travel time.
+
+3) Probability of winning/losing at home games
+  - The probability of a team winning a game at home is 57.64%.
+  - The probability of a team losing a game at home is 42.36%.
 
 ## Python Libraries
-pandas, matplotlib, seaborn, scikit-learn
+pandas, matplotlib, seaborn, datetime
