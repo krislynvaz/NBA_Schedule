@@ -2,13 +2,11 @@
 
 <img width="2040" height="1278" alt="image" src="https://github.com/user-attachments/assets/2eb7b694-4451-4cc1-96d5-b07b31608157" />
 
-
-
 ## Project Overview
-In this analysis, we set out to explore trends, performance metrics, and predictive modeling within Formula 1 racing.
+In this analysis, we set out to explore trends in NBA scheduling.
 
 ## Dataset
-[Fomula 1 World Championship](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/versions/23)
+[NBA Data 2010-2014](https://github.com/NocturneBear/NBA-Data-2010-2024)
 
 This dataset consists of all information on the Formula 1 races, drivers, constructors, qualifying, circuits, lap times, pit stops, championships, etc. from 1950 till the latest 2024 season.
 
