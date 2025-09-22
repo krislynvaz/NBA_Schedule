@@ -1,6 +1,7 @@
 # Formula 1 History
 
-![image](<img width="1024" height="512" alt="image" src="https://github.com/user-attachments/assets/8ed09281-825f-49fe-8b81-aaefa0c3e8a7" />)
+<img width="2040" height="1278" alt="image" src="https://github.com/user-attachments/assets/2eb7b694-4451-4cc1-96d5-b07b31608157" />
+
 
 
 ## Project Overview
