@@ -1,4 +1,4 @@
-# Formula 1 History
+# NBA Schedule Analysis
 
 <img width="2040" height="1278" alt="image" src="https://github.com/user-attachments/assets/2eb7b694-4451-4cc1-96d5-b07b31608157" />
 
