@@ -24,8 +24,8 @@ This GitHub repository contains CSV files containing  NBA data spanning from the
       On the second night of b2b games, teams are losing 55.7% of the time and winning only 44.3%. This suggests that playing on consecutive nights put teams at a disadvantage due to fatigue and travel time.
 
 4) Probability of winning/losing at home games
-     - The probability of a team winning a game at home is 57.64%.
-     - The probability of a team losing a game at home is 42.36%.
+     - The probability of a team winning a game at home is **57.64%**.
+     - The probability of a team losing a game at home is **42.36%**.
 
 ## Python Libraries
 pandas, matplotlib, seaborn, datetime
